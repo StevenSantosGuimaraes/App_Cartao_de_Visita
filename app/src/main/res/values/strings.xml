@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Navigation Drawer</string>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+    <string name="nav_header_title">ATM Consultoria</string>
+    <string name="nav_header_subtitle">atendimento@atmconsultoria.com.br</string>
+    <string name="nav_header_desc">Navigation descrição</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sobre">Sobre</string>
+
+    <string name="entre_em_contato">Entre em contato</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_exemplo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.</string>
+
+    <string name="logo_da_atm_consultoria">Logo da ATM consultoria</string>
+    <string name="sistema_de_gestao_da_qualidade">Sistema de gestão da qualidade</string>
+    <string name="indicadores_de_desempenho">Indicadores de desempenho</string>
+    <string name="clientes">Clientes</string>
+    <string name="enviar_e_mail">Enviar e-mail.</string>
+
+</resources>
